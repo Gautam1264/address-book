@@ -2,7 +2,8 @@
 API's for Address-Book are implemented in Node-JS , Express-JS and Mongo-DB database.       
 JWT authentication is added.     
         
-                       
+   
+You have to open mongo db databse in browser with your id logged in.                               
 Already six contacts are present in the database.     
               
 To test the api's on postman you can use following test cases - 
